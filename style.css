@@ -48,8 +48,7 @@ main {
 #container button {
     width: 120px;
     height: 40px;
-    margin-top: auto;
-    margin-bottom: 30px;
+    margin-top: 20px;
     border-radius: 20px;
     border: 0px solid;
     color: orange;
@@ -101,8 +100,7 @@ main {
 #content button {
     width: 120px;
     height: 40px;
-    margin-top: auto;
-    margin-bottom: 30px;
+    margin-top: 20px;
     border-radius: 20px;
     border: 0px solid;
     color: rgb(0, 114, 114);
@@ -157,8 +155,7 @@ main {
 #card button {
     width: 120px;
     height: 40px;
-    margin-top: auto;
-    margin-bottom: 30px;
+    margin-top: 20px;
     border-radius: 20px;
     border: 0 solid;
     color: rgb(3, 22, 16);
@@ -211,6 +208,7 @@ main {
 }
 
    
+
 
 
 
