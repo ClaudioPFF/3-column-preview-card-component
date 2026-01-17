@@ -82,7 +82,7 @@ main {
 
 
 #content p {
-    max-width: 140px;
+    max-width: 160px;
     line-height: 1.5;
     font-size: 15px;
     color: rgb(223, 223, 223);
@@ -137,7 +137,7 @@ main {
 
 
 #card p {
-    max-width: 140px;
+    max-width: 160px;
     font-size: 15px;
     line-height: 1.5;
     color: rgb(223, 223, 223);
@@ -201,6 +201,7 @@ main {
 }
 
    
+
 
 
 
